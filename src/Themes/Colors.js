@@ -1,0 +1,17 @@
+const Colors = {
+  WHITE: '#FFFFFF',
+  BLACK: '#000000',
+  PRIMARY:"#101FE6",
+  TEXT_GRAY: '#A0C0A0',
+  TEXT_DARK: '#323232',
+  TEXT_PLACEHOLDER: '#C9C9C9',
+  BLUE_COLOR: '#061F5F',
+  VERIFICATION_BG: '#F4F4F4',
+  TEXT_RED: '#F16647',
+  DARK_RED: '#DC0000',
+  SEARCH_BG: '#E0E0E0',
+  TRANSPARENT: 'rgba(255,255,255,0)',
+  OPACITY:"rgba(255,255,255,0.3)"
+};
+
+export default Colors;
